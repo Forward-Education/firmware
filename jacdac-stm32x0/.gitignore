@@ -1,0 +1,7 @@
+built/
+.vscode/
+node_modules/
+tmp
+package-lock.json
+Makefile.user
+spibridge/gpiod.h
